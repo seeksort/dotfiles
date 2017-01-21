@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"Color Highlighter",
+		"HTML-CSS-JS Prettify",
 		"Markdown Preview",
 		"Material Theme",
 		"Package Control",
@@ -13,6 +15,7 @@
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"Theme - Spacegray",
+		"TypeScript",
 		"View In Browser"
 	]
 }

@@ -19,6 +19,7 @@
 	],
 	"overlay_scroll_bars": "enabled",
 	"scroll_past_end": true,
+	"spacegray_fileicons": true,
 	"tab_size": 4,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
